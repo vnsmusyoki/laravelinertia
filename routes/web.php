@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\PagesTestController;
 use Illuminate\Support\Facades\Route;
+use Inertia\Inertia;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,9 +14,8 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
 Route::get('/', function () {
-    return view('welcome');
+    return Inertia::render('index');
 });
 Route::get('first-page',[PagesTestController::class, 'firstpage']);
 Route::get('second-page',[PagesTestController::class, 'secondpage']);

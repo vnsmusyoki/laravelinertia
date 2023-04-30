@@ -8,20 +8,20 @@
             <div class="navbar-brand-box">
               <a href="index.html" class="logo logo-dark">
                 <span class="logo-sm">
-                  <img src="assets/images/logo-sm.svg" alt="" height="30" />
+                  <img src="/images/logo-sm.svg" alt="" height="30" />
                 </span>
                 <span class="logo-lg">
-                  <img src="assets/images/logo-sm.svg" alt="" height="24" />
+                  <img src="/images/logo-sm.svg" alt="" height="24" />
                   <span class="logo-txt">Tech Junkie</span>
                 </span>
               </a>
 
               <a href="index.html" class="logo logo-light">
                 <span class="logo-sm">
-                  <img src="assets/images/logo-sm.svg" alt="" height="30" />
+                  <img src="/images/logo-sm.svg" alt="" height="30" />
                 </span>
                 <span class="logo-lg">
-                  <img src="assets/images/logo-sm.svg" alt="" height="24" />
+                  <img src="/images/logo-sm.svg" alt="" height="24" />
                   <span class="logo-txt">Dason</span>
                 </span>
               </a>
@@ -91,7 +91,7 @@
               >
                 <img
                   id="header-lang-img"
-                  src="assets/images/flags/us.jpg"
+                  src="/images/flags/us.jpg"
                   alt="Header Language"
                   height="16"
                 />
@@ -104,7 +104,7 @@
                   data-lang="en"
                 >
                   <img
-                    src="assets/images/flags/us.jpg"
+                    src="/images/flags/us.jpg"
                     alt="user-image"
                     class="me-1"
                     height="12"
@@ -118,7 +118,7 @@
                   data-lang="sp"
                 >
                   <img
-                    src="assets/images/flags/spain.jpg"
+                    src="/images/flags/spain.jpg"
                     alt="user-image"
                     class="me-1"
                     height="12"
@@ -133,7 +133,7 @@
                   data-lang="gr"
                 >
                   <img
-                    src="assets/images/flags/germany.jpg"
+                    src="/images/flags/germany.jpg"
                     alt="user-image"
                     class="me-1"
                     height="12"
@@ -148,7 +148,7 @@
                   data-lang="it"
                 >
                   <img
-                    src="assets/images/flags/italy.jpg"
+                    src="/images/flags/italy.jpg"
                     alt="user-image"
                     class="me-1"
                     height="12"
@@ -163,7 +163,7 @@
                   data-lang="ru"
                 >
                   <img
-                    src="assets/images/flags/russia.jpg"
+                    src="/images/flags/russia.jpg"
                     alt="user-image"
                     class="me-1"
                     height="12"
@@ -195,19 +195,19 @@
                   <div class="row g-0">
                     <div class="col">
                       <a class="dropdown-icon-item" href="#">
-                        <img src="assets/images/brands/github.png" alt="Github" />
+                        <img src="/images/brands/github.png" alt="Github" />
                         <span>GitHub</span>
                       </a>
                     </div>
                     <div class="col">
                       <a class="dropdown-icon-item" href="#">
-                        <img src="assets/images/brands/bitbucket.png" alt="bitbucket" />
+                        <img src="/images/brands/bitbucket.png" alt="bitbucket" />
                         <span>Bitbucket</span>
                       </a>
                     </div>
                     <div class="col">
                       <a class="dropdown-icon-item" href="#">
-                        <img src="assets/images/brands/dribbble.png" alt="dribbble" />
+                        <img src="/images/brands/dribbble.png" alt="dribbble" />
                         <span>Dribbble</span>
                       </a>
                     </div>
@@ -216,19 +216,19 @@
                   <div class="row g-0">
                     <div class="col">
                       <a class="dropdown-icon-item" href="#">
-                        <img src="assets/images/brands/dropbox.png" alt="dropbox" />
+                        <img src="/images/brands/dropbox.png" alt="dropbox" />
                         <span>Dropbox</span>
                       </a>
                     </div>
                     <div class="col">
                       <a class="dropdown-icon-item" href="#">
-                        <img src="assets/images/brands/mail_chimp.png" alt="mail_chimp" />
+                        <img src="/images/brands/mail_chimp.png" alt="mail_chimp" />
                         <span>Mail Chimp</span>
                       </a>
                     </div>
                     <div class="col">
                       <a class="dropdown-icon-item" href="#">
-                        <img src="assets/images/brands/slack.png" alt="slack" />
+                        <img src="/images/brands/slack.png" alt="slack" />
                         <span>Slack</span>
                       </a>
                     </div>
@@ -270,7 +270,7 @@
                     <div class="d-flex">
                       <div class="flex-shrink-0 me-3">
                         <img
-                          src="assets/images/users/avatar-3.jpg"
+                          src="/images/users/avatar-3.jpg"
                           class="rounded-circle avatar-sm"
                           alt="user-pic"
                         />
@@ -327,7 +327,7 @@
                     <div class="d-flex">
                       <div class="flex-shrink-0 me-3">
                         <img
-                          src="assets/images/users/avatar-6.jpg"
+                          src="/images/users/avatar-6.jpg"
                           class="rounded-circle avatar-sm"
                           alt="user-pic"
                         />
@@ -375,7 +375,7 @@
               >
                 <img
                   class="rounded-circle header-profile-user"
-                  src="assets/images/users/avatar-1.jpg"
+                  src="/images/users/avatar-1.jpg"
                   alt="Header Avatar"
                 />
                 <span class="d-none d-xl-inline-block ms-1 fw-medium">Paul K.</span>
@@ -802,7 +802,7 @@
 
             <div class="card sidebar-alert shadow-none text-center mx-4 mb-0 mt-5">
               <div class="card-body">
-                <img src="assets/images/giftbox.png" alt="" />
+                <img src="/images/giftbox.png" alt="" />
                 <div class="mt-4">
                   <h5 class="alertcard-title font-size-16">Unlimited Access</h5>
                   <p class="font-size-13">
